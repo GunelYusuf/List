@@ -1,0 +1,13 @@
+/Users/gunelyusubova/Projects/Indexer/Indexer/bin/Debug/netcoreapp3.1/Indexer.deps.json
+/Users/gunelyusubova/Projects/Indexer/Indexer/bin/Debug/netcoreapp3.1/Indexer.runtimeconfig.json
+/Users/gunelyusubova/Projects/Indexer/Indexer/bin/Debug/netcoreapp3.1/Indexer.runtimeconfig.dev.json
+/Users/gunelyusubova/Projects/Indexer/Indexer/bin/Debug/netcoreapp3.1/Indexer.dll
+/Users/gunelyusubova/Projects/Indexer/Indexer/bin/Debug/netcoreapp3.1/Indexer.pdb
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.csproj.AssemblyReference.cache
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.AssemblyInfoInputs.cache
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.AssemblyInfo.cs
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.csproj.CoreCompileInputs.cache
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.dll
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.pdb
+/Users/gunelyusubova/Projects/Indexer/Indexer/obj/Debug/netcoreapp3.1/Indexer.genruntimeconfig.cache

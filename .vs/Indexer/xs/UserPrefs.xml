@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{98E5A1BD-A62E-432E-A471-E565DE6248D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Indexer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Indexer/Program.cs" Line="16" Column="15" />
+      <File FileName="Indexer/MyList.cs" Line="41" Column="1" />
+      <File FileName="Indexer/Customer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Indexer" expanded="True">
+            <Node name="Indexer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
